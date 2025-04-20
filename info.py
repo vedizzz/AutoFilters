@@ -91,7 +91,7 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/How_to_Download_7x/30
 # Link Shortener Configuration
 # ============================
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'softurl.in')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'arolinks.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', 'aedb193fbece0c8370b8535e5ba8a878b4804548')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Tamil_LinksZzz/36')  # Tutorial video link for opening shortlink website
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
